@@ -1,0 +1,8 @@
+This is a Binary Search Tree that I created in Fall, 2010.  I included a quick
+demo for usage information.
+
+To compile:
+	javac Demo.java
+	
+To run:
+	java Demo
